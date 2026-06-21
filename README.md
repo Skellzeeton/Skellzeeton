@@ -1,4 +1,5 @@
 # Hello, i am Skellz, also known as Skellzee or Skellzeeton.
+
 ## i work on games and stuff, currently i am focused on modding already existing games, though i plan on developing my own games in the near future.
 
 ### Here are some of my projects from biggest to smallest:
@@ -25,7 +26,16 @@ https://github.com/Skellzeeton/COMZ-NIGHTMARE
 - CoM/Call of Mini Sniper Nightmare
 
 
+## Socials:
+- CoM Discord Server:
+https://discord.gg/gv7Ebnmg7u
+- Main Discord Server:
+https://discord.gg/58TK8dy9mx
+*(not CoM related)*
+- YouTube/YT Channel:
+youtube.com/@skellzee
 
+- *i only work alone, do not attempt to convince me to add you to any of my projects, i won't do it.*
 <!--
 **Skellzeeton/Skellzeeton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
