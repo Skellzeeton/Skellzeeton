@@ -1,10 +1,15 @@
-### Hello, i am Skellz, also known as Skellzee or Skellzeeton.
+# Hello, i am Skellz, also known as Skellzee or Skellzeeton.
 ## i work on games and stuff, currently i am focused on modding already existing games, though i plan on developing my own games in the near future.
 
-# Here are some of my projects from biggest to smallest:
+### Here are some of my projects from biggest to smallest:
 
-- 
+- CoM/Call of Mini Dino Hunter: REIMAGINED (the first and only mega mod for CoMDH)
+https://github.com/Skellzeeton/Dino-Hunter-Reimagined
 
+- CoM/Call of Mini Dino Hunter Legacy Remastered (Overhaul mod for CoMDH 1.0)
+https://github.com/Skellzeeton/CoM-Dino-Hunter-1.0-Remastered
+
+- CoM/Call of Mini Dino Hunter 0.5 Revival (beta version of CoMDH)
 <!--
 **Skellzeeton/Skellzeeton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
