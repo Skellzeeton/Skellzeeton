@@ -17,6 +17,8 @@ https://github.com/Skellzeeton/CoM-Dino-Hunter-0.5
 https://github.com/Skellzeeton/COMZ-NIGHTMARE
 
 - CoM/Call of Mini Dino Hunter April Fools/"Call of Mini Dirt Hunter" (an obvious joke mod for CoMDH, it is primarily difficulty and comedy focused with RNG elements being completely removed and crystal weapons being way cheaper but it is a much more chaotic and comedic experience.)
+https://github.com/Skellzeeton/CoM-Dino-Hunter-April-Fools
+
 
 ## Upcoming projects:
 
